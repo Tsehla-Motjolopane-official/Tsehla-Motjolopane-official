@@ -1,9 +1,8 @@
 ## 🧑‍💻 Introduction
 
 - Hello, I am Tsehla Motjolopane, a passionate developer with experience in mobile and web development.  
-- My primary focus is developing solutions that solve immediate problems, with a strong focus on creating innovative user experiences.  
-- I'm dedicated to crafting robust, scalable applications that solve real-world problems and deliver exceptional user value.  
-
+- I'm dedicated to developing solutions that solve immediate problems, with a strong focus on creating innovative user experiences.  
+ 
 ## ✨ Highlights
 
 - 🌱 Currently expanding my knowledge in **JAVA** and **Cloud Architecture**.  
