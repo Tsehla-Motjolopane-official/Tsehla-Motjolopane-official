@@ -1,8 +1,9 @@
-## 🧑‍💻 Introduction
+## 🧑‍💻 About Me
 
-## HELLO 👋, I'm Tsehla Motjolopane, a passionate developer with experience in mobile and web development
+## HELLO 👋, I'm Tsehla Motjolopane, a passionate developer with experience in full-stack development
 - I am Bcom Information Systems student at the University of Johannesburg
-- I am an academic tutor and member of technopreneurship centre and the UJenius club =.
+- A development Software academic tutor.
+- A member of the UJenius club.
  
 ## ✨ Highlights
 
