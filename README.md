@@ -1,11 +1,13 @@
 ## 🧑‍💻 Introduction
 
-- Hello, I am Tsehla Motjolopane, a passionate developer with experience in mobile and web development.  
-- I'm dedicated to developing solutions that solve immediate problems, with a strong focus on creating innovative user experiences.  
+## HELLO 👋, I'm Tsehla Motjolopane, a passionate developer with experience in mobile and web development
+- I am Bcom Information Systems student at the University of Johannesburg
+- I am an academic tutor and member of technopreneurship centre and the UJenius club =.
  
 ## ✨ Highlights
 
-- 🌱 Currently expanding my knowledge in **JAVA** and **Cloud Architecture**.  
+- 🌱 Currently expanding my knowledge in **JAVA** and **Cloud Architecture**.
+- I'm dedicated to developing solutions that solve immediate problems, with a strong focus on creating innovative user experiences. 
 - 🔗 Connect with me on [LinkedIn](www.linkedin.com/in/tsehla-motjolopane )  
 
 
