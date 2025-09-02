@@ -1,7 +1,7 @@
 
 ## HELLO 👋, I'm Tsehla Motjolopane, a passionate developer with experience in full-stack development
-- I am a Bcom Information Systems student at the University of Johannesburg
-- A Development Software academic tutor.
+- I am a Bcom Information Systems student at the University of Johannesburg.
+- A Development Software and Information Systems academic tutor.
 - A member of the UJenius Club.
  
 ## ✨ Highlights
