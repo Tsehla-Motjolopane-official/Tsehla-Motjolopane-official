@@ -6,7 +6,7 @@
  
 ## ✨ Highlights
 
-- 🌱 Currently expanding my knowledge in **JAVA** and **Cloud Architecture**.
+- 🌱 Currently expanding my knowledge in **Artificial Intelligence** and **Machine Learning**.
 - I'm dedicated to developing solutions that solve immediate problems, with a strong focus on creating innovative user experiences. 
 - 🔗 Connect with me on [LinkedIn](www.linkedin.com/in/tsehla-motjolopane )  
 
