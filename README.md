@@ -1,7 +1,7 @@
 
 ## HELLO 👋, I'm Tsehla Motjolopane, a software developer with experience in full-stack development.
 - A Development Software and Information Systems academic tutor.
-- 🌱 Currently expanding my knowledge in **Artificial Intelligence**, **Paid Media** and **PPC Advertising**.
+- 🌱 Currently expanding my knowledge in **Artificial Intelligence** and **Iot**.
 - 🔗 Connect with me on [LinkedIn](www.linkedin.com/in/tsehla-motjolopane )  
 
 
