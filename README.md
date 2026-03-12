@@ -1,5 +1,5 @@
 
-## HELLO 👋, I'm Tsehla Motjolopane, a software engineer with experience in full-stack development.
+## HELLO 👋, I'm Tsehla Motjolopane, a software and AI engineer 
 - 🌱 Currently expanding my knowledge in **Artificial Intelligence** and **Internet of things**.
 - 🔗 Connect with me on [LinkedIn](www.linkedin.com/in/tsehla-motjolopane )  
 
